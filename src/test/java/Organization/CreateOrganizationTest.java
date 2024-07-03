@@ -70,7 +70,7 @@ public class CreateOrganizationTest {
 		Thread.sleep(2000);
 		
 		home.logoutFromApp();
-		
+		//GitBash edit and pull
 	}
 
 }
